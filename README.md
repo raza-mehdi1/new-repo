@@ -1,3 +1,1 @@
 # new-repo
-
-new-repository
